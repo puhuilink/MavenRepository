@@ -3,11 +3,11 @@
     <repositories>
         <repository>
             <id>puhuilink-maven-repo-snap</id>
-            <url>https://raw.githubusercontent.com/puhuilink/MavenRepository/snapshot/repository</url>
+            <url>https://raw.github.com/puhuilink/MavenRepository/snapshot/repository</url>
         </repository>
         <repository>
             <id>puhuilink-maven-repo-release</id>
-            <url>https://raw.githubusercontent.com/puhuilink/MavenRepository/release/repository</url>
+            <url>https://raw.github.com/puhuilink/MavenRepository/release/repository</url>
         </repository>
     </repositories>
 ```
